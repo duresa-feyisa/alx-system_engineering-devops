@@ -1,2 +1,2 @@
 #!/bin/bash
-behlnort=$((WATER+STIR)) ; echo $behlnort
+behlnort=$((WATER+STIR)) | echo $behlnort
